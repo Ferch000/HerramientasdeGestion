@@ -1,2 +1,2 @@
 # CONECTEDU
-El proyecto CONECTEDU es una plataforma web orientada a fortalecer el aprendizaje y reducir la deserción escolar en estudiantes de Educación Media Superior del municipio de Córdoba, Veracruz. El proyecto se alinea con el ODS 4 (Educación de Calidad) y ha alcanzado el Nivel de Madurez Tecnológica TRL2, demostrando la viabilidad técnica del concepto mediante el desarrollo de una landing page e interfaces web funcionales. 
+El proyecto CONECTEDU es una plataforma web orientada a fortalecer el aprendizaje y reducir la deserción escolar en estudiantes de Educación Media Superior del municipio de Córdoba, Veracruz.
